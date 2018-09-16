@@ -5,6 +5,7 @@
 
 ### 语义解析(Semantic Parsing)
 <a href='http://www.aclweb.org/anthology/D13-1160'> Semantic parsing on freebase from question-answer pairs </a>
+<a href='http://www.aclweb.org/anthology/P13-2009'> Semantic Parsing as Machine Translation </a>
 
 ### 信息抽取(Information Extraction)
 <a href='http://www.aclweb.org/anthology/P14-1090'> Information extraction over structured data: Question answering with freebase </a>
