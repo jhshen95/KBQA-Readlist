@@ -14,4 +14,5 @@
 
 ## 学习资源
 <a href='https://zhuanlan.zhihu.com/p/25735572'> 揭开知识库问答KB-QA的面纱 </a>
+
 <a href='https://mp.weixin.qq.com/s?__biz=MzI0MTI1Nzk1MA==&mid=2651675664&idx=1&sn=ec00b3925d4dc1919624dcbb8ff24638&chksm=f2f7a0a1c58029b75fa80df89546e5a295a5bcb1ae62e731605589701f2b279942643d875f51&mpshare=1&scene=1&srcid=0907AbDs1TKqitVQSaZ7As9v#rd'> 深度 | 肖仰华：基于知识图谱的问答系统 </a>
